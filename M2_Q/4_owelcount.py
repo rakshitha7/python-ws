@@ -4,14 +4,10 @@ Example:
 Input: quintessential
 Output: [&#39;u&#39;, &#39;i&#39;, &#39;e&#39;, &#39;e&#39;, &#39;i&#39;, &#39;a&#39;];'''
 
-name=input("enter your name")
-lst = ['a','e','i','o','u']
-c=0
-for i in name:
-    if i in lst:
-        c=c+1
-print(c)
+name=input('Enter the name')
 
-
-#using filter
-'''print(len(list(filter(lambda x:x in lst,name))))'''
+ls=['a','e','i','o','u']
+vowel=list(filter(lambda x:x in ls,name))
+count=len(vowel)
+print(count)
+print(vowel)
