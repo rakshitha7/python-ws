@@ -46,7 +46,7 @@ def maxSalaryEmp():
 
 
 def showEmpCountByDeptName:
-    
+    pass
 
 def showTotalSalaryByDeptName():
     pass

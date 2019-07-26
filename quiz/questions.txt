@@ -1,0 +1,4 @@
+which of the following is not valid keyword?,_else,If,abc,cd,B
+Extreme old age when a man behaves like a fool,	Imbecility,Senility,Dotage,Superannuation,C
+A style in which a writer makes a display of his knowledge,Pedantic,Verbose,Pompous,Ornate,A	
+State in which the few govern the many,Monarchy,Oligarchy,Plutocracy,Autocracy,B
